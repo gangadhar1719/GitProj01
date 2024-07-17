@@ -11,7 +11,11 @@ public class Arithmetic {
 
 		System.out.println("Arithmetic.add(dev)");
         return num1+num2;
+<<<<<<< HEAD
 	  
+=======
+	 
+>>>>>>> branch 'master' of https://github.com/gangadhar1719/GitProj01.git
 }
 
 }
