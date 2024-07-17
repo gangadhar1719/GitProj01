@@ -19,8 +19,10 @@ public class BillPayment {
 	{
 		System.out.println("bitcoin payment");
 	}
+
 	public void phonePay()
 	{
 		System.out.println("phonepay");
+
 	}
 }
