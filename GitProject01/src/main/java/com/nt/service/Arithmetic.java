@@ -26,5 +26,10 @@ public class Arithmetic {
 		System.out.println("hi i am sub");
 	}
 	
+	public void mul()
+	{
+		System.out.println("hi i am mul");
+	}
+	
 
 }
