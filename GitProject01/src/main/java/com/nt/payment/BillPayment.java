@@ -6,5 +6,9 @@ public class BillPayment {
 	{
 		System.out.println("online payment done");
 	}
+	public void phoneyment()
+	{
+		System.out.println("phonnepay payment done");
+	}
 
 }
