@@ -32,7 +32,7 @@ public class Arithmetic {
 	}
 	public void div()
 	{
-		System.out.println("hi i am div1");
+		System.out.println("hi i am div");
 	}
 
 }
