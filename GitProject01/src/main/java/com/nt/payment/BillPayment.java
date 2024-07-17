@@ -10,5 +10,9 @@ public class BillPayment {
 	{
 		System.out.println("phonnepay payment done");
 	}
+	public void cardPayment()
+	{
+		System.out.println("card payment done");
+	}
 
 }
