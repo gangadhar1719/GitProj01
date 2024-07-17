@@ -11,7 +11,7 @@ public class Arithmetic {
 		System.out.println("hi i am tl");
 
 
-		System.out.println("hi i am dev1");
+		System.out.println("hi i am t1");
         //hi hello
 
 		System.out.println("Arithmetic.add(dev)");
