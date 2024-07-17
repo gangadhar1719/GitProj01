@@ -25,4 +25,8 @@ public class BillPayment {
 		System.out.println("phonepay");
 
 	}
+	public void bharathPay()
+	{
+		System.out.println("hi bpay");
+	}
 }
