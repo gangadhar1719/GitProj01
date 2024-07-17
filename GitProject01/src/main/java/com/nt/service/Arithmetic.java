@@ -11,6 +11,8 @@ public class Arithmetic {
 
 		System.out.println("Arithmetic.add(dev)");
         return num1+num2;
+	
+	
 	}
 
 }
