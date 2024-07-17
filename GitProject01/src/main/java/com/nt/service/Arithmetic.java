@@ -21,5 +21,10 @@ public class Arithmetic {
 
 }
 	
+	public void sub()
+	{
+		System.out.println("hi i am sub");
+	}
+	
 
 }
