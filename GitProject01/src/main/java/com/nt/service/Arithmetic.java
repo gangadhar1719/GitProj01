@@ -13,13 +13,6 @@ public class Arithmetic {
         return num1+num2;
 
 }
-	public double sum(double num1,double num2)
-	{
-		return num1-num2;
-	}
-	public double mul(double num1,double num2)
-	{
-		return num1*num2;
-	}
+	
 
 }
