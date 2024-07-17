@@ -14,5 +14,9 @@ public class BillPayment {
 	{
 		System.out.println("card payment done");
 	}
+	public void bitcoin()
+	{
+		System.out.println("bitcoin payment");
+	}
 
 }
