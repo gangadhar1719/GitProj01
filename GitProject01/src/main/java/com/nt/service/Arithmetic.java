@@ -26,5 +26,8 @@ public class Arithmetic {
 		System.out.println("hi i am sub");
 	}
 	
-
+	public void div()
+	{
+		System.out.println("hi i am div");
+	}
 }
