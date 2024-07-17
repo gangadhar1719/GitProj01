@@ -30,6 +30,9 @@ public class Arithmetic {
 	{
 		System.out.println("hi i am mul");
 	}
-	
+	public void div()
+	{
+		System.out.println("hi i am div");
+	}
 
 }
