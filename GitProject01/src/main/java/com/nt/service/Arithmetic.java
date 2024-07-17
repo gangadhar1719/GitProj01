@@ -8,7 +8,7 @@ public class Arithmetic {
 
 		System.out.println("tl modified");
 
-		System.out.println("hi i am dev1");
+		System.out.println("hi i am t");
 
 
 		System.out.println("hi i am t1");
