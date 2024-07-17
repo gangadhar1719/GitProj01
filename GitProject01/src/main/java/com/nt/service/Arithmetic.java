@@ -10,7 +10,7 @@ public class Arithmetic {
 		System.out.println("hi i am tl");
 
 		System.out.println("Arithmetic.add(dev)");
-        return num1+num2+10;
+        return num1+num2;
 
 }
 	
